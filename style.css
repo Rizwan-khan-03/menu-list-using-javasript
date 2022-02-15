@@ -1,0 +1,14 @@
+.custom-title{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.custom-title h5{
+text-transform: capitalize;
+}
+.custom-title h6{
+    color: #e79907;
+}
+.btn{
+    text-transform: capitalize; 
+}
